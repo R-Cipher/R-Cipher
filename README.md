@@ -1,9 +1,7 @@
 ## R-Cipher
-Support Escalation Engineer @ Microsoft (Teams)
-
-Transitioning to Azure Cloud Engineering
-
-Public portfolio to document labs
+Support Escalation Engineer @ Microsoft (Teams) 👨🏾‍💻
+Transitioning to Azure Cloud Engineering ☁️
+Public portfolio to document labs 📁
 <!--
 **R-Cipher/R-Cipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
