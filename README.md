@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Romy Francis
+# 👋 Hi, I’m Roumeal Francis
 
 **Microsoft Cloud Support Engineer | Azure Cloud Engineering**
 
-I support complex Microsoft Teams environments at Microsoft and am transitioning into Azure cloud engineering. I build hands-on labs that turn cloud concepts into reproducible, documented solutions.
+I support Microsoft Teams environments at Microsoft and am transitioning into Azure cloud engineering. I build hands-on labs that turn cloud concepts into reproducible, documented solutions.
 
 ## ☁️ What I work with
 
